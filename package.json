@@ -1,7 +1,6 @@
 {
   "name": "chat",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,14 @@
     "body-parser": "^1.20.2",
     "express": "^4.18.2",
     "sqlite3": "^5.1.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borsal1/Chat_goat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Borsal1/Chat_goat/issues"
+  },
+  "homepage": "https://github.com/Borsal1/Chat_goat#readme",
+  "description": ""
 }
